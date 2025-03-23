@@ -1,1 +1,2 @@
-*.class // Compiled bytecode for Scala
+# Ignore compiled bytecode for Scala
+*.class
